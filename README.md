@@ -2,7 +2,7 @@
 
 Gerador de QR code. O projeto faz parte do desafio proposto pelo site [devchallenges.io](https://devchallenges.io).
 
-Para conferir o resultado, clique [aqui](https://multi-step-register-form-flax.vercel.app/).
+Para conferir o resultado, clique [aqui](https://qr-code-generator-taupe-omega.vercel.app/).
 
 A página do desafio pode ser acessada [aqui](https://devchallenges.io/challenge/41).
 
