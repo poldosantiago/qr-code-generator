@@ -1,0 +1,52 @@
+
+/* QR Code */
+.qrcode__qrcode_panel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-bottom: 72px;
+}
+
+.qrcode__background_circle{
+    background-color:var(--color6);
+    width: 320px;
+    height: 320px;
+    clip-path: circle(50%);
+    position: absolute;
+    z-index: -1;
+}
+
+.qrcode__content{
+    width: 200px;
+    background-color: #FFF;
+    border: 25px solid #FFF;
+    border-radius: 20px;
+}
+
+
+/* Botões do QRCode */
+
+.qrdcode__button_panel{
+    /* background-color: aqua; */
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.qrdcode__button{
+    padding: 18px 32px;
+    background-color: var(--color2);
+    color: var(--color1);
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.qrdcode__svg_button{
+    width: 15px;
+    margin-left: 16px;
+    fill: var(--color1);
+}
+

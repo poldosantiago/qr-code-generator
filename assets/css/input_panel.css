@@ -1,0 +1,67 @@
+.step_page.--disable{
+    display: none;
+}
+
+.step_page__title{
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: center;
+}
+
+.step_page__title__img{
+    width: 200px;
+}
+
+/*input_panel*/
+
+.input_panel{
+    position: relative;
+}
+
+.input_panel__input{
+    width: 500px;
+    height: 60px;
+    padding: 0px 50px 0px 25px;
+    border: 2px solid var(--color2);
+    border-radius: 15px;
+    background-color: var(--color3);
+    color: var(--color5);
+    /* font-weight: bold; */
+    font-size: 16px;
+
+    margin-bottom: 16px;
+}
+
+.input_panel__button{
+    position: absolute;
+    right: 7px;
+    top: 7px;
+
+    width: 120px;
+    height: 52px;
+
+    border: none;
+    border-radius: 10px;
+    background-color: var(--color2);
+    color: var(--color1);
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.input_panel__message{
+    color: red;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input_panel__message.--hidden{
+    visibility: hidden;
+}
+
+.input_panel__message svg{
+    width: 15px;
+    margin-right: 8px;
+}
