@@ -4,7 +4,7 @@ Gerador de QR code. O projeto faz parte do desafio proposto pelo site [devchalle
 
 Para conferir o resultado, clique [aqui](https://qr-code-generator-taupe-omega.vercel.app/).
 
-A página do desafio pode ser acessada [aqui](https://devchallenges.io/challenge/41).
+A página do desafio pode ser acessada [aqui](https://devchallenges.io/challenge/qa-code-generator).
 
 ## Tecnologias utilizadas 🖥️
 
